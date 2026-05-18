@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @agnislur
-- 👀 I’m interested in machine learning
+- 👀 I work as a Cloud Engineer 
 
 
 <!---
