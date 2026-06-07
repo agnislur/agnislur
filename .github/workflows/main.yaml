@@ -18,7 +18,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          user: eldios
+          user: agnislur
           template: classic
           base: header, activity, community, repositories #, metadata
           config_animations: yes
@@ -42,7 +42,7 @@ jobs:
           #plugin_notable_filter: stars:>100
           #plugin_notable_repositories: yes
           plugin_repositories: yes
-          plugin_repositories_featured: nixos/nixpkgs, eldios/.dotfiles
+          plugin_repositories_featured: agnislur/aws-infra-reference-architecture-agni
           plugin_topics: yes
           #plugin_topics_mode: mastered
           #plugin_topics_limit: 20
